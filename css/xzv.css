@@ -131,6 +131,8 @@ li:hover .dropdown-content{
     height:400px;
 }
 
+#imglist li{float:left;}
+
 #indicator{
     bottom:20px;
     display:flex;
@@ -150,4 +152,4 @@ li:hover .dropdown-content{
     background:#ffffff;
 }
 
-#imglist li{float:left;}
+
