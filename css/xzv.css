@@ -44,7 +44,7 @@ a{
     background-repeat:no-repeat;
     background-position: left center;
     margin-left:32px;
-    float: right;
+    float:left;
 }
 .hello-word h2{
     color:white;
@@ -54,7 +54,7 @@ a{
     background-repeat:no-repeat;
     background-position: left center;
     margin-left:25px;
-    float: right;
+    float:left;
 }
 .hello-word .s{
     background-color:#8c6e63;
@@ -64,7 +64,7 @@ a{
     background-image:url("../img/S.png");
     background-repeat:no-repeat;
     background-position:center center;
-    float:right;
+    float:left;
 }
 
 .logo-nav-bigbox{
