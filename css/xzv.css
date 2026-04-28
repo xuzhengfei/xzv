@@ -45,7 +45,7 @@ a{
     background-repeat:no-repeat;
     background-position: left center;
     padding-left:32px;
-    float: left;
+    float: right;
 }
 .hello-word h2{
     color:white;
@@ -55,7 +55,7 @@ a{
     background-repeat:no-repeat;
     background-position: left center;
     padding-left:25px;
-    float: left;
+    float: right;
 }
 .hello-word .s{
     background-color:#8c6e63;
@@ -65,7 +65,7 @@ a{
     background-image:url("../img/S.png");
     background-repeat:no-repeat;
     background-position:center center;
-    float:left;
+    float:right;
 }
 
 .logo-nav-bigbox{
@@ -75,7 +75,6 @@ a{
 }
 
 .nav{
-    margin-left:132px;
     float:left;
     overflow:hidden;
 }
@@ -138,7 +137,7 @@ li:hover .dropdown-content{
 
 #imglist img{
     width:1920px;
-    height:700px;
+    height:400px;
 }
 
 #indicator{
@@ -159,5 +158,5 @@ li:hover .dropdown-content{
     background:#fff;
 }
 
-.outer{width:1920px;margin:0 auto;}
+.outer{width:px;margin:0 auto;}
 #imglist li{float:left;}
