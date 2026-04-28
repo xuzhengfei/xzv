@@ -135,11 +135,8 @@ li:hover .dropdown-content{
 #indicator{
     bottom:20px;
     display:flex;
-	justify-content: center;
-    position: absolute;
     left: 0;
     right: 0;
-    gap: 15px;
 }
 
 #indicator a{
@@ -147,7 +144,9 @@ li:hover .dropdown-content{
     height:20px;
     border-radius:50%;
     background:#7f8487;
-	
+	float:left;
+	gap: 15px;
+    position: absolute;
 }
 #indicator a.active{
     background:#ffffff;
