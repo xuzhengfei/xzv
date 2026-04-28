@@ -23,9 +23,8 @@ a{
     clear:both;
 }
 
-/*head*/
 .hello-word{
-    width:px;
+    width:1400px;
     background-color:#333;
     margin:0 auto;
 }
@@ -69,19 +68,10 @@ a{
     float:left;
 }
 
-
 .logo-nav-bigbox{
-    width:px;
+    width:1400px;
     display: flex;
     margin:0 auto;
-}
-
-
-.logo-nav-bigbox img{
-    margin-left:260px;
-    float:left;
-    margin-top:24px;
-    margin-bottom:24px;
 }
 
 .nav{
