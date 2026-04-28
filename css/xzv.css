@@ -131,6 +131,10 @@ li:hover .dropdown-content{
     height:400px;
 }
 
+.imglist .item{
+	float:left;
+}
+
 #indicator{
     bottom:20px;
     display:flex;
