@@ -22,11 +22,10 @@ a{
 .clearfix{
     clear:both;
 }
-body{width:1920px;}
 
 /*head*/
 .hello-word{
-    width:1920px;
+    width:1400px;
     background-color:#333;
     margin:0 auto;
 }
@@ -71,7 +70,7 @@ body{width:1920px;}
 }
 /*标志和导航大框*/
 .logo-nav-bigbox{
-    width:1920px;
+    width:1400px;
     display: flex;
     margin:0 auto;
 }
