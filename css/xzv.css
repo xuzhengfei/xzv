@@ -135,8 +135,6 @@ li:hover .dropdown-content{
     position:absolute;
     bottom:20px;
     display:flex;
-    /* left:50%; */
-    /* transform:translateX(-50%); */
 }
 #indicator a{
     width:20px;
@@ -149,5 +147,5 @@ li:hover .dropdown-content{
     background:#fff;
 }
 
-.outer{width:px;margin:0 auto;}
+/* .outer{width:px;margin:0 auto;} */
 #imglist li{float:left;}
