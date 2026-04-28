@@ -24,7 +24,6 @@ a{
 }
 
 .hello-word{
-    width:1400px;
     background-color:#333;
     margin:0 auto;
 }
@@ -44,7 +43,7 @@ a{
     background-image:url("../img/e-mail-icon.png");
     background-repeat:no-repeat;
     background-position: left center;
-    padding-left:32px;
+    margin-left:32px;
     float: right;
 }
 .hello-word h2{
@@ -54,7 +53,7 @@ a{
     background-image:url("../img/Phone-icon.png");
     background-repeat:no-repeat;
     background-position: left center;
-    padding-left:25px;
+    margin-left:25px;
     float: right;
 }
 .hello-word .s{
@@ -69,7 +68,6 @@ a{
 }
 
 .logo-nav-bigbox{
-    width:1400px;
     display: flex;
     margin:0 auto;
 }
