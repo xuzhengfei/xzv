@@ -31,7 +31,7 @@ a{
 .hello-word .word{
     color:white;
     line-height:55px;
-    margin-left:260px;
+    margin-left:px;
     float:left;
 }
 .hello-word .rightkj{
@@ -40,7 +40,7 @@ a{
 .hello-word h1{
     color:white;
     line-height:55px;
-    margin-left:734px;
+    margin-left:px;
     background-image:url("../img/e-mail-icon.png");
     background-repeat:no-repeat;
     background-position: left center;
