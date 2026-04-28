@@ -67,22 +67,23 @@ a{
     background-repeat:no-repeat;
     background-position:center center;
     float:left;
-    margin-right:260px;
 }
-/*标志和导航大框*/
+
+
 .logo-nav-bigbox{
     width:px;
     display: flex;
     margin:0 auto;
 }
-/*标志logo*/
+
+
 .logo-nav-bigbox img{
     margin-left:260px;
     float:left;
     margin-top:24px;
     margin-bottom:24px;
 }
-/*导航*/
+
 .nav{
     margin-left:132px;
     float:left;
@@ -131,7 +132,6 @@ li:hover .dropdown-content{
 
 .first{margin-top:12px;}
 
-/*banner*/
 #bannercontainer{
     width:1920px;
     height:700px;
@@ -169,6 +169,5 @@ li:hover .dropdown-content{
     background:#fff;
 }
 
-/*outer*/
 .outer{width:1920px;margin:0 auto;}
 #imglist li{float:left;}
