@@ -29,11 +29,14 @@ a{
     background-color:#333;
     margin:0 auto;
 }
-.hello-word p{
+.hello-word .word{
     color:white;
     line-height:55px;
     margin-left:260px;
     float:left;
+}
+.hello-word .rightkj{
+    float:right;
 }
 .hello-word h1{
     color:white;
