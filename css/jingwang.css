@@ -22,6 +22,7 @@ a{
 .clearfix{
     clear:both;
 }
+body{width:1920px;}
 
 /*head*/
 .hello-word{
