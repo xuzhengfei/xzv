@@ -67,6 +67,7 @@ a{
     background-repeat:no-repeat;
     background-position:center center;
     float:left;
+    margin-right:260px;
 }
 /*标志和导航大框*/
 .logo-nav-bigbox{
