@@ -24,6 +24,7 @@ a{
 }
 
 .hello-word{
+    width:1400px;
     background-color:#333;
     display: flex;
     justify-content: space-between; /* 左右分开 */
