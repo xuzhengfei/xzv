@@ -24,32 +24,24 @@ a{
 }
 
 .hello-word{
-    background-color:#333;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    max-width: 1400px;
-    margin: 0 auto; 
+    width: 1920px;
+    margin: 0 auto;
+	height: 55px;
+	background-color:#333;
 }
+
 .hello-word .word{
     color:white;
     line-height:55px;
-    margin-left:px;
+    margin-left:430px;
     float:left;
+	font-weight:bold; 
 }
 .hello-word .rightkj{
     float:right;
+	margin-right: 460px;
 }
-.hello-word h1{
-    color:white;
-    line-height:55px;
-    margin-left:px;
-    background-image:url("../img/e-mail-icon.png");
-    background-repeat:no-repeat;
-    background-position: left center;
-    margin-left:32px;
-    float:left;
-}
+
 .hello-word h2{
     color:white;
     line-height:55px;
@@ -57,7 +49,7 @@ a{
     background-image:url("../img/Phone-icon.png");
     background-repeat:no-repeat;
     background-position: left center;
-    margin-left:25px;
+    padding-left:25px;
     float:left;
 }
 .hello-word .s{
@@ -71,14 +63,11 @@ a{
     float:right;
 }
 
-.logo-nav-bigbox{
-    display: flex;
-    margin:0 auto;
-}
-
 .nav{
-    float:left;
     overflow:hidden;
+	width: 1400px;
+    margin:0 auto;
+	padding-left: 150px;
 }
 .nav li{
     float:left;
@@ -125,7 +114,7 @@ li:hover .dropdown-content{
 
 #bannercontainer{
     width:1920px;
-    height:700px;
+    height:400px;
     margin:0 auto;
     overflow:hidden;
     position:relative;
